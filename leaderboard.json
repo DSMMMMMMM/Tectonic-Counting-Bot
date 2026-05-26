@@ -1,0 +1,30 @@
+{
+  "server": {
+    "currentNumber": 0,
+    "highScore": 18,
+    "totalScore": 13,
+    "lastCountedBy": "counting"
+  },
+  "users": {
+    "1148421549238526016": {
+      "username": "counting",
+      "numbersCountedTotal": 8,
+      "numbersCountedCorrect": 6,
+      "numbersCountedWrong": 2,
+      "score": 4,
+      "highestValidCount": 17,
+      "lastActive": "2026-05-21T18:59:28.037Z",
+      "correctRate": "75.0%"
+    },
+    "725867136232456302": {
+      "username": "The worst at games",
+      "numbersCountedTotal": 8,
+      "numbersCountedCorrect": 7,
+      "numbersCountedWrong": 1,
+      "score": 6,
+      "highestValidCount": 18,
+      "lastActive": "2026-05-21T19:10:17.331Z",
+      "correctRate": "87.5%"
+    }
+  }
+}
